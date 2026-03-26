@@ -1,15 +1,22 @@
 {
-  "name": "docker-learning",
+  "name": "devops-pipeline",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "run": "node index.js",
     "test": "node test.js"
-
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quentincs50/devops-pipeline.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Quentincs50/devops-pipeline/issues"
+  },
+  "homepage": "https://github.com/Quentincs50/devops-pipeline#readme"
 }
